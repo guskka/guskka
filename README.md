@@ -6,5 +6,5 @@
 <div align="center">
   <h2>Meu Workspace</h2>
   <p>IDE</p>
-  <img width="64" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg">
+  <img width="64" src="assets/svgs/vscode.svg">
 </div>
