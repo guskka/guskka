@@ -5,6 +5,12 @@
 
 <div align="center">
   <h2>Meu Workspace</h2>
-  <p>IDE</p>
-  <img width="64" src="assets/svgs/vscode.svg">
+  <div>
+    <p>IDE</p>
+    <img width="64" src="assets/svgs/vscode.svg">
+  </div>
+  <div>
+    <p>Tech Stack</p>
+    
+  </div>
 </div>
