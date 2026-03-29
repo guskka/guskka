@@ -15,7 +15,7 @@
     <span>Projetos</span>
   </h2>
   <h3>ETEC</h3>
-  <a href="https://github.com/guskka/PWIII"><span style="font-weight: bold;">PWIII</span></a><p>Repositório com todos os projetos desenvolvidos em 2026 no módulo Programação Web 3 na ETEC Ilza Nascimento Pintus</p>
+  <a href="https://github.com/guskka/PWIII"><span style="font-weight: bold;">PWIII</span></a><p>Todos os projetos desenvolvidos em 2026 no módulo Programação Web 3 na ETEC Ilza Nascimento Pintus</p>
 </div>
 
 <div>
