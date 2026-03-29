@@ -24,11 +24,11 @@
     <span>Meu Workspace</span>
   </h2>
   <div>
-    <h3>IDE<br><span style="font-weight: normal; font-size: 80%;">(Editor de Código)</span></h3>
+    <h3>IDE<br><sub>(Editor de Código)</sub></h3>
     <img align="center" width="52" src="assets/svgs/vscode.svg" alt="Visual Studio Code">
   </div>
   <div>
-    <h3>Technical Stack<br><span style="font-weight: normal; font-size: 80%;">(Linguagens)</span></h3>
+    <h3>Technical Stack<br><sub>(Linguagens)</sub></h3>
     <img align="center" width="50" src="assets/svgs/html.svg" alt="HTML5">
     &nbsp;
     <img align="center" width="50" src="assets/svgs/css.svg" alt="CSS3">
@@ -38,7 +38,7 @@
     <img align="center" width="52" src="assets/svgs/mysql.svg" alt="MySql">
   </div>
   <div>
-    <h3>Development Tools<br><span style="font-weight: normal; font-size: 80%;">(Ferramentas)</span></h3>
+    <h3>Development Tools<br><sub>(Ferramentas)</sub></h3>
     <img align="center" width="52" src="assets/svgs/git.svg" alt="Git">
     &nbsp;
     <img align="center" width="34" src="assets/svgs/figma.svg" alt="Figma">
