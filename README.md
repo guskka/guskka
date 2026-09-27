@@ -26,7 +26,7 @@
     &nbsp;
     <img align="center" width="62" src="assets/svgs/vite.svg" title="Vite" alt="Vite">
     &nbsp;
-    <img align="center" width="52" src="assets/svgs/mysql.svg" title="MySQL" alt="MySQL">
+    <img align="center" width="52" src="assets/svgs/mysql.svg" title="MySQL / MariaDB" alt="MySQL / MariaDB">
   </div>
   <div align="center">
     <h3>Tools</h3>
@@ -50,5 +50,5 @@
     <img align="center" width="164" src="assets/projects/casdventario-blue-logotype.svg" title="Open repository" alt="CASDventário">
   </a><br><br>
   <p>Inventory management system for Curso Alberto Santos Dumont (CASD)</p>
-  <small><code>React • Tailwind • Nodejs • Vite • MySQL (in development)</code></small>
+  <small><code>React • Tailwind • Nodejs • Vite • MariaDB (in development)</code></small>
 </div>
